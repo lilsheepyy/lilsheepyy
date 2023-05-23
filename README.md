@@ -6,6 +6,7 @@
         If you are here, you probably know with what im imvolved.<br>
         Open to collaborating on interesting and innovative projects.<br>
         Still learning this langs, anyways I only release code that 100% works.<br>
+        </i><br>
         <a href="https://t.me/lilsheepyy">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram">
     </a>
