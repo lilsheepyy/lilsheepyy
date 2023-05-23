@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### Languages
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lilsheepyy)
+[![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/lilsheepyy)
+[![Go](https://img.shields.io/badge/Golang-black?style=for-the-badge&logo=go)](https://github.com/lilsheepyy)
 <!--
 **lilsheepyy/lilsheepyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
