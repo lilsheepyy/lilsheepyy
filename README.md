@@ -6,7 +6,8 @@
         If you are here, you probably know with what im imvolved.<br>
         Open to collaborating on interesting and innovative projects.<br>
         Still learning this langs, anyways I only release code that 100% works.<br>
-        <a href="https://https://t.me/lilsheepyy">
+        
+        <a href="https://t.me/lilsheepyy">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram">
     </a>
     </i><br>
