@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi Guys 👋
+<p align="center">
+    <b>Welcome to my page!</b><br><br>
+    <i>
+        I'm Sheep.<br>
+        Currently learning to walk in C without falling on my bottom.<br>
+        Open to collaborating on interesting and innovative projects.<br>
+    </i><br>
+
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lilsheepyy)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/lilsheepyy)
