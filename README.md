@@ -3,7 +3,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Sheep.<br>
-        If you are here, you probably know with what im imvolved.<br>
+        If you are here, you probably know with what im involved.<br>
         Open to collaborating on interesting and innovative projects.<br>
         Still learning this langs, anyways I only release code that 100% works.<br>
         </i><br>
