@@ -3,8 +3,9 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm Sheep a computer science student and a networking enthusiast from Spain!<br>
-        I really really like networking related stuff, I try to learn something new every day about it.<br>
-        Currently learning about kernel in C!        
+        I have a deep passion for networking and strive to learn something new about it every day.<br>
+        Currently exploring kernel development in C.<br>
+        I specialize in backend development and have little experience with front-end.<br>
         Open to collaborating on interesting and innovative projects.<br>
         Still learning this langs, anyways I only release code that 100% works or that I think is good enough.<br>
         </i><br>
