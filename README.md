@@ -10,6 +10,8 @@
         </i><br>
         <a href="https://t.me/sheepthesillycat">
         <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Telegram" alt="Telegram">
+        <a href="http://discordapp.com/users/660556644018683904">
+        <img src="https://img.shields.io/badge/Telegram-blue?style=flat-square&logo=Discord" alt="Discord">
     </a>
     </i><br>
 
