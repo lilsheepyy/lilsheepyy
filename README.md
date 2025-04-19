@@ -15,7 +15,14 @@
         <img src="https://img.shields.io/badge/Discord-purple?style=flat-square&logo=Discord" alt="Discord">
     </a>
     </i><br>
+            
+---
+          
+## Contact
 
+- Telegram: [t.me/sheepthesillycat](https://t.me/sheepthesillycat)
+- Telegram Channel: [t.me/sheepsbio](https://t.me/sheepsbio)
+- Website: [sheepyy.love](https://sheepyy.love)
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lilsheepyy)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/lilsheepyy)
