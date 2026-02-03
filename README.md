@@ -21,7 +21,6 @@
 ## Contact
 
 - Telegram: [t.me/sheepthesillycat](https://t.me/sheepthesillycat)
-- Telegram Channel: [t.me/sheepsbio](https://t.me/sheepsbio)
 - Website: [sheepyy.love](https://sheepyy.love)
 ### Languages
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/lilsheepyy)
