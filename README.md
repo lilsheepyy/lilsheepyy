@@ -4,7 +4,7 @@
     <i>
         I'm Sheep a computer science student and a networking enthusiast from Spain!<br>
         I have a deep passion for networking and strive to learn something new about it every day.<br>
-        Currently exploring kernel development in C.<br>
+        Advanced knowledge in antibots and web traffic<br>
         I specialize in backend development and have little experience with front-end.<br>
         Open to collaborating on interesting and innovative projects.<br>
         Still learning this langs, anyways I only release code that 100% works or that I think is good enough.<br>
